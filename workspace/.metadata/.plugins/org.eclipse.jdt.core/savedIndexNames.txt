@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/Users/TwistedZero/Dropbox/AndroidGaming/LibGDXEngine/workspace/.metadata/.plugins/org.eclipse.jdt.core
+2473263053.index
